@@ -1,0 +1,39 @@
+# Data
+data/
+raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+.venv/
+embRenv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+dist-ssr/
+*.local
+
+# Plots
+plots/
+
+# Models
+models/
