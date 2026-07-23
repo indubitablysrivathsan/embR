@@ -8,7 +8,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent
 DATA_ROOT = PROJECT_ROOT / "../candl/data"
 
 # ─── RESEARCH ─────────────────────────────────────────────────────────────────
-RESEARCH_ROOT    = PROJECT_ROOT / "../candl/research"
+RESEARCH_ROOT = PROJECT_ROOT / "data"
 
 # ─── DUCKDB ───────────────────────────────────────────────────────────────────
 NSE_DB_PATH = DATA_ROOT / "nse.db"
