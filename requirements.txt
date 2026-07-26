@@ -1,0 +1,8 @@
+numpy
+pandas
+duckdb
+matplotlib
+scipy
+scikit-learn
+statsmodels
+hmmlearn
