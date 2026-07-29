@@ -10,5 +10,8 @@ DATA_ROOT = PROJECT_ROOT / "../candl/data"
 # ─── RESEARCH ─────────────────────────────────────────────────────────────────
 RESEARCH_ROOT = PROJECT_ROOT / "data"
 
+# ─── ARTIFACTS ────────────────────────────────────────────────────────────────
+ARTIFACTS_ROOT = PROJECT_ROOT / "artifacts"
+
 # ─── DUCKDB ───────────────────────────────────────────────────────────────────
 NSE_DB_PATH = DATA_ROOT / "nse.db"
