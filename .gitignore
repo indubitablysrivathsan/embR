@@ -37,6 +37,7 @@ plots/
 
 # Models
 models/
+catboost_info/
 
 # Literature
 literature/

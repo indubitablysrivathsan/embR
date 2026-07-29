@@ -6,3 +6,8 @@ scipy
 scikit-learn
 statsmodels
 hmmlearn
+xgboost
+lightgbm
+catboost
+arch
+shap
